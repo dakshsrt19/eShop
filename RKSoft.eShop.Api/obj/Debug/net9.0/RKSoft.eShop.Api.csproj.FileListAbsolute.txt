@@ -30,3 +30,15 @@ D:\Git Projects\eShop\Server\RKSoft.eShop.Api\obj\Debug\net9.0\refint\RKSoft.eSh
 D:\Git Projects\eShop\Server\RKSoft.eShop.Api\obj\Debug\net9.0\RKSoft.eShop.Api.pdb
 D:\Git Projects\eShop\Server\RKSoft.eShop.Api\obj\Debug\net9.0\RKSoft.eShop.Api.genruntimeconfig.cache
 D:\Git Projects\eShop\Server\RKSoft.eShop.Api\obj\Debug\net9.0\ref\RKSoft.eShop.Api.dll
+D:\Git Projects\eShop\RKSoft.eShop.Api\obj\Debug\net9.0\RKSoft.eShop.Api.csproj.AssemblyReference.cache
+D:\Git Projects\eShop\RKSoft.eShop.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Git Projects\eShop\RKSoft.eShop.Api\obj\Debug\net9.0\RKSoft.eShop.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Projects\eShop\RKSoft.eShop.Api\obj\Debug\net9.0\RKSoft.eShop.Api.AssemblyInfoInputs.cache
+D:\Git Projects\eShop\RKSoft.eShop.Api\obj\Debug\net9.0\RKSoft.eShop.Api.AssemblyInfo.cs
+D:\Git Projects\eShop\RKSoft.eShop.Api\obj\Debug\net9.0\RKSoft.eShop.Api.csproj.CoreCompileInputs.cache
+D:\Git Projects\eShop\RKSoft.eShop.Api\obj\Debug\net9.0\RKSoft.eShop.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Git Projects\eShop\RKSoft.eShop.Api\obj\Debug\net9.0\RKSoft.eShop.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Git Projects\eShop\RKSoft.eShop.Api\obj\Debug\net9.0\RKSoft.eShop.Api.sourcelink.json
+D:\Git Projects\eShop\RKSoft.eShop.Api\obj\Debug\net9.0\RKSoft.eShop.Api.dll
+D:\Git Projects\eShop\RKSoft.eShop.Api\obj\Debug\net9.0\refint\RKSoft.eShop.Api.dll
+D:\Git Projects\eShop\RKSoft.eShop.Api\obj\Debug\net9.0\RKSoft.eShop.Api.pdb

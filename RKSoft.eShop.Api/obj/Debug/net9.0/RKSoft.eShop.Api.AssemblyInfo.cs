@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RKSoft.eShop.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f43e8b86b2d2f28fa124c05a8a6d069bd30fa779")]
 [assembly: System.Reflection.AssemblyProductAttribute("RKSoft.eShop.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RKSoft.eShop.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
